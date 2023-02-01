@@ -1,4 +1,4 @@
-Hi 👋 My name is Can Bolayır
+Hi 👋 Its Can Bolayır
 ============================
 
 new learner
